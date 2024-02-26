@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 import asyncio
-from Embed_Creator import EmbedCreator
+from creator import EmbedCreator
 
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix='!', intents=intents)

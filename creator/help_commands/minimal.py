@@ -2,7 +2,7 @@ from typing import Any, List, Optional, Mapping
 from discord.ext import commands
 from discord.ext.commands import Cog, Command, Group
 from discord import Embed, Color, utils
-from Embed_Creator import Paginator
+from creator import Paginator
 
 __all__ = (
     "MinimalHelpCommand",

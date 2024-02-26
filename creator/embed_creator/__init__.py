@@ -5,8 +5,8 @@ from typing import Optional, Any
 from discord import ButtonStyle, CategoryChannel, Embed, ForumChannel, HTTPException, Interaction, StageChannel, Colour, SelectOption
 from discord.ext.commands import Bot
 from discord.ui import Item, Select, select, Button, button, View
-from Embed_Creator.embed_creator.methods import CreatorMethods
-from Embed_Creator import ChannelSelectPrompt
+from creator.embed_creator.methods import CreatorMethods
+from creator import ChannelSelectPrompt
 
 
 __all__ = ("EmbedCreator",)

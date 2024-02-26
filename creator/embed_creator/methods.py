@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from typing import Callable, Dict
-from Embed_Creator import ModalInput, SelectPrompt
+from creator import ModalInput, SelectPrompt
 from discord import Colour, Embed, HTTPException, Interaction, SelectOption, TextStyle
 from discord.ui import TextInput
 
