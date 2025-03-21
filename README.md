@@ -31,4 +31,4 @@ async def embed(ctx):
 ```
 
 <!-- <p>Adicionar tecnologias, funções autores e no final:</p> -->
-<p>Este software é uma modificação da obra original de [Pranoy Majumdar (Dispie)](https://https://github.com/PranoyMajumdar/dispie)</p>
+<p>Este software é uma modificação da obra original de [Pranoy Majumdar (Dispie)](https://github.com/PranoyMajumdar/dispie)</p>
