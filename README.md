@@ -31,4 +31,4 @@ async def embed(ctx):
 ```
 
 <!-- <p>Adicionar tecnologias, funções autores e no final:</p> -->
-<p>Este software é uma modificação e tradução ao português do projeto Dispie, criado originalmente por [Pranoy Majumdar](https://github.com/pranoymajumdar)</p>
+<p>Este software é uma modificação e tradução ao português do projeto Dispie, criado originalmente por <a href=”https://github.com/pranoymajumdar”>Pranoy Majumdar</a></p>
