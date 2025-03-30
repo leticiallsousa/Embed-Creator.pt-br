@@ -1,0 +1,5 @@
+*.egg-info
+PKG-INFO
+__pycache__/
+*.py[cod]
+.vscode
