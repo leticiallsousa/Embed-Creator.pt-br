@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-with open("README.md", "r") as arq:
+with open("../README.md", "r") as arq:
     readme = arq.read()
 
 setup(name='embedcreator',
